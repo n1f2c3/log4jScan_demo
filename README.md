@@ -11,4 +11,5 @@
 |-----------------------------------------------------------------------------------------|
 |https://github.com/inbug-team/Log4j_RCE_Tool                                             |
 ------------------------------------------------------------------------------------------
+https://checkmarx.com/blog/cve-2021-44832-apache-log4j-2-17-0-arbitrary-code-execution-via-jdbcappender-datasource-element/
 ```
